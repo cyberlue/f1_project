@@ -1,9 +1,0 @@
-pandas
-numpy
-matplotlib.pyplot
-seaborn
-sqlite3
-os
-zipfile
-IPython.display
-PIL
