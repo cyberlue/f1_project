@@ -1,4 +1,4 @@
-# Interaktive F1-Datenbank mit Python & Tableau 🚀
+# Interaktive F1-Datenbank mit Python & Tableau 
 
 Dieses Projekt bietet eine explorative Datenanalyse (EDA) der Ergast F1-Datenbank
 und eine dynamische Visualisierung in Tableau.
