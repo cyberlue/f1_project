@@ -26,4 +26,4 @@ und eine dynamische Visualisierung in Tableau.
 
 4. Visualisierung als interaktive dynamisierte F1 DB in Tableau:
 	in 'visualisaions' findet sich das
-	.txbx mit der Story zu den dynamisierten Beispiel- EDAs	
+	.twbx mit der Story zu den dynamisierten Beispiel- EDAs	
